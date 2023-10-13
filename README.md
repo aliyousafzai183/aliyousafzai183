@@ -1,6 +1,9 @@
 # 💫 Hi there:
 I am passionate software developer working on MERN stack website development and cross platform mobile application development using React-Native
 
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliyousafzai183) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aliyousafzai183) 
@@ -11,9 +14,6 @@ I am passionate software developer working on MERN stack website development and
 ![](https://github-readme-stats.vercel.app/api?username=aliyousafzai183&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliyousafzai183&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyousafzai183&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aliyousafzai183&limit=5&theme=dark&combine_all_yearly_contributions=true)
