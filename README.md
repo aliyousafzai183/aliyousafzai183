@@ -1,6 +1,5 @@
 # 💫 Hi there:
-I am passionate software developer working on MERN stack website development and cross platform mobile application development using React-Native
-
+Senior Software Engineer at Regions
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
